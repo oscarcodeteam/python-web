@@ -27,3 +27,4 @@ if __name__ == '__main__':
         unittest.TextTestRunner().run(tests)
 
     manager.run()
+
